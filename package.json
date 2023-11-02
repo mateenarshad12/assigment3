@@ -1,6 +1,6 @@
 {
-    "name": My Student ID is 21565069. Welcome to Express"",
-    "description": "Sample NodeJs web application",
+    "name": My Student ID is 21565069.,
+    "description": " Welcome to Express",
     "version": "0.0.1",
     "private": true,
     "devDependencies": {
